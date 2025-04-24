@@ -1,1 +1,1 @@
-# .github
+岐阜高専ロボット研究会　チームAのOrganizationです。
